@@ -11,6 +11,8 @@ THESE FONTS ARE PROVIDED "AS IS" WITHOUT WARRANTY.
 
 ## GL-Tsukiji-Shogo / GL-築地初号（築地体・初號片平假名）
 
+<img src="https://github.com/Gutenberg-Labo/GL-Tsukiji/blob/main/documents/GL-Tsukiji-Shogo.svg" width="95%" alt="GL-Tsukiji-Shogo - Open Source Japanese Font" />
+
 From typeface of the Tokyo Tsukiji Kappan, type foundry in the Meiji period (1868-1912).\
 It supports hiragana and katakana. No Chinese letters.\
 This font also supports basic Latin characters from ["Manuel Typographique" Pierre-Simon Fournier](https://gallica.bnf.fr/ark:/12148/bpt6k1070586b/f243.item), but they are only for Kana character input support.
@@ -21,6 +23,8 @@ This font also supports basic Latin characters from ["Manuel Typographique" Pier
 <br />
 
 ## GL-Tsukiji-2go / GL-築地二号（築地体・貮號片平假名）
+
+<img src="https://github.com/Gutenberg-Labo/GL-Tsukiji/blob/main/documents/GL-Tsukiji-2go.svg" width="95%" alt="GL-Tsukiji-2go - Open Source Japanese Font" />
 
 From typeface of the Tokyo Tsukiji Kappan, type foundry in the Meiji period (1868-1912).\
 It supports hiragana and katakana. No Chinese letters.\
@@ -33,6 +37,8 @@ This font also supports basic Latin characters from ["Manuel Typographique" Pier
 
 ## GL-Tsukiji-3go / GL-築地三号（築地体・三號片平假名）
 
+<img src="https://github.com/Gutenberg-Labo/GL-Tsukiji/blob/main/documents/GL-Tsukiji-3go.svg" width="95%" alt="GL-Tsukiji-3go - Open Source Japanese Font" />
+
 From typeface of the Tokyo Tsukiji Kappan, type foundry in the Meiji period (1868-1912).\
 It supports hiragana and katakana. No Chinese letters.\
 This font also supports basic Latin characters from ["Manuel Typographique" Pierre-Simon Fournier](https://gallica.bnf.fr/ark:/12148/bpt6k1070586b/f243.item), but they are only for Kana character input support.
@@ -44,6 +50,8 @@ This font also supports basic Latin characters from ["Manuel Typographique" Pier
 
 ## GL-Tsukiji-4go / GL-築地四号（築地体・四號片平假名）
 
+<img src="https://github.com/Gutenberg-Labo/GL-Tsukiji/blob/main/documents/GL-Tsukiji-4go.svg" width="95%" alt="GL-Tsukiji-4go - Open Source Japanese Font" />
+
 From typeface of the Tokyo Tsukiji Kappan, type foundry in the Meiji period (1868-1912).\
 It supports hiragana and katakana. No Chinese letters.\
 This font also supports basic Latin characters from ["Manuel Typographique" Pierre-Simon Fournier](https://gallica.bnf.fr/ark:/12148/bpt6k1070586b/f243.item), but they are only for Kana character input support.
@@ -54,6 +62,8 @@ This font also supports basic Latin characters from ["Manuel Typographique" Pier
 <br />
 
 ## GL-Tsukiji-5go / GL-築地五号（築地体・五號片平假名）
+
+<img src="https://github.com/Gutenberg-Labo/GL-Tsukiji/blob/main/documents/GL-Tsukiji-5go.svg" width="95%" alt="GL-Tsukiji-5go - Open Source Japanese Font" />
 
 From typeface of the Tokyo Tsukiji Kappan, type foundry in the Meiji period (1868-1912).\
 It supports Hiragana, katakana and very few Chinese letters.\
